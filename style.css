@@ -1,0 +1,45 @@
+body {
+    font-family: sans-serif;
+}
+
+header {
+    background: rgb(255, 189, 47);
+    padding: 25px;
+}
+
+a {
+    text-decoration: none;
+    padding: 20px;
+    color: rgb(151, 20, 20);
+}
+
+h1  {
+    text-align: center ;
+    background-color: rgb(47, 255, 238);
+    padding: 20px;
+    color: rgb(37, 143, 185);
+}
+
+p  {
+    font-size: 20px;
+    color:rgb(37, 113, 185); 
+    background-color: rgb(255, 224, 47);
+}
+
+img  {
+    padding: 15px;
+    text-align: center ;
+
+}
+
+footer {
+    background-color:rgb(255, 189, 47);
+}
+
+li  {
+    font-size: 30px;
+}
+
+
+
+
